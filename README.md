@@ -1,2 +1,2 @@
-# Data-Science-Journey
-🚀 My Data Science Journey | Practical implementations and learning codes for NumPy, Pandas, Data Visualization (Matplotlib &amp; Seaborn), and Statistics concepts 📈💻
+# Data-Science-Journey(Numpy and Pandas)
+📘 NumPy & Pandas Learning Journey 🚀 | Contains practical implementations and exercises focused on data handling and analysis using Python libraries.
