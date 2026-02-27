@@ -1,0 +1,10 @@
+🔷 What is Sorting in Pandas?
+Sorting in pandas means arranging data in a specific order — either ascending or descending — based on the values of one or more columns or the index.
+
+🔹 Why Sorting is Useful?
+Makes data easier to analyze
+
+Helps in ranking, filtering, or searching
+
+Useful in report generation
+

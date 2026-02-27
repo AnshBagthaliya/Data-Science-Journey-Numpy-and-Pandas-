@@ -1,0 +1,18 @@
+interpoletion - Astimate missing values in numerical columns
+
+10
+20
+NaN --> 30
+40
+50
+
+linear
+
+1- preserve data integrity
+2- smooth trends
+3- avoid data loss
+
+interpolete()
+#Method-1 lenear
+#Method-2 polynomial
+#Method-3 time ect.....
